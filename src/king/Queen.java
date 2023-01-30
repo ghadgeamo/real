@@ -6,6 +6,8 @@ public class Queen {
 	{
 		
      System.out.println("queen arrived ok");
+		
+		System.out.println("princess arrived");
 	}
 
 }
